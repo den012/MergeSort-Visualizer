@@ -14,24 +14,25 @@ Smooth animation to enhance understanding.
 <h2>How to Use 🛠️</h2>
 
 Clone this repository to your local machine.
-Open the project in your favorite Java IDE.
-Compile and run the MergeSortVisualizer.java file.
+Open the project in your favorite Java IDE. <br>
+
+```Compile and run the mainApplication.java file.```
+
 Adjust the array size and other parameters as needed.
 Watch as the Merge Sort algorithm sorts the array, step by step, with visual feedback.
 
 <h2>Technologies Used 🛠️</h2>
 
-**Java 💻**   <br>
-**JavaFx**
+```Java, JavaFx```
 
 Screenshots 📸
 
-[demo/]
+![Demo GIF](demo/demo.gif)
 
-Contributing 🤝
+<h2>Contributing 🤝</h2>
 
 Contributions are welcome! Feel free to open issues or pull requests to suggest improvements, report bugs, or add new features.
 
-License 📝
+<h2>License 📝</h2>
 
 This project is licensed under the MIT License - see the LICENSE file for details.
